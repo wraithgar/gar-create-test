@@ -1,6 +1,6 @@
 {
   "name": "@gar/create-test",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Test create script for npm init",
   "main": "index.js",
   "bin": {
